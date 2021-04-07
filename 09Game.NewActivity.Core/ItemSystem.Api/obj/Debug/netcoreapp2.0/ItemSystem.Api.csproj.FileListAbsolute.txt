@@ -1,0 +1,9 @@
+E:\09GameAll\道具系统API\ItemSystem.Api\bin\Debug\netcoreapp2.0\ItemSystem.Api.deps.json
+E:\09GameAll\道具系统API\ItemSystem.Api\bin\Debug\netcoreapp2.0\ItemSystem.Api.dll
+E:\09GameAll\道具系统API\ItemSystem.Api\bin\Debug\netcoreapp2.0\ItemSystem.Api.pdb
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.0\ItemSystem.Api.csproj.CoreCompileInputs.cache
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.0\ItemSystem.Api.AssemblyInfoInputs.cache
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.0\ItemSystem.Api.AssemblyInfo.cs
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.0\ItemSystem.Api.dll
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.0\ItemSystem.Api.pdb
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.0\ItemSystem.Api.csprojResolveAssemblyReference.cache

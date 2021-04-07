@@ -1,0 +1,45 @@
+F:\备用\RabbitMq\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.deps.json
+F:\备用\RabbitMq\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.dll
+F:\备用\RabbitMq\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfoInputs.cache
+F:\备用\RabbitMq\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfo.cs
+F:\备用\RabbitMq\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.pdb
+F:\备用\RabbitMq\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csproj.CoreCompileInputs.cache
+F:\备用\RabbitMq\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.dll
+F:\备用\RabbitMq\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.pdb
+F:\备用\RabbitMq - 副本\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.deps.json
+F:\备用\RabbitMq - 副本\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.dll
+F:\备用\RabbitMq - 副本\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.pdb
+F:\备用\RabbitMq - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csproj.CoreCompileInputs.cache
+F:\备用\RabbitMq - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfoInputs.cache
+F:\备用\RabbitMq - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfo.cs
+F:\备用\RabbitMq - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.dll
+F:\备用\RabbitMq - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.pdb
+F:\备用\RabbitMq - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\09Game.Collection.Core.Enity.exe
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\09Game.Collection.Core.Enity.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\09Game.Collection.Core.Log.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\ItemSystem.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\09Game.Collection.Core.Enity.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\09Game.Collection.Core.Log.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\bin\Debug\netcoreapp3.1\ItemSystem.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csproj.CopyComplete
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.deps.json
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\bin\Debug\netcoreapp3.1\Rabbit.pdb
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfoInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.AssemblyInfo.cs
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Rabbit\obj\Debug\netcoreapp3.1\Rabbit.pdb

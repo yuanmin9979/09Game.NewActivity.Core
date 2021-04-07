@@ -1,0 +1,81 @@
+E:\09GameAll\道具系统API\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+E:\09GameAll\道具系统API\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+E:\09GameAll\道具系统API\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+E:\09GameAll\道具系统API\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\活动\09Game.Activity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+F:\2020-道具后台\svn\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+F:\2020-道具后台\svn\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+F:\2020-道具后台\svn\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+F:\2020-道具后台\svn\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+F:\2020-道具后台\svn\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+F:\2020-道具后台\svn\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+F:\2020-道具后台\svn\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+F:\2020-道具后台\svn\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+F:\2020-道具后台\svn\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.deps.json
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\bin\Debug\netcoreapp2.1\ItemSystem.Api.pdb
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.AssemblyInfo.cs
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\ItemSystem.Api\obj\Debug\netcoreapp2.1\ItemSystem.Api.pdb

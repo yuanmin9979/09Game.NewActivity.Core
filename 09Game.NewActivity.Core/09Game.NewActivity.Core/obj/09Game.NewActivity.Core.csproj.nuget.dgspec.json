@@ -1,0 +1,615 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core\\09Game.NewActivity.Core.csproj": {}
+  },
+  "projects": {
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Authentication\\09Game.NewActivity.Core.Authentication.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Authentication\\09Game.NewActivity.Core.Authentication.csproj",
+        "projectName": "09Game.NewActivity.Core.Authentication",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Authentication\\09Game.NewActivity.Core.Authentication.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Authentication\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Microsoft.Extensions.Caching.Abstractions": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            },
+            "MySql.Data": {
+              "target": "Package",
+              "version": "[8.0.23, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Enity\\09Game.NewActivity.Core.Enity.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Enity\\09Game.NewActivity.Core.Enity.csproj",
+        "projectName": "09Game.NewActivity.Core.Enity",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Enity\\09Game.NewActivity.Core.Enity.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Enity\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Dapper": {
+              "target": "Package",
+              "version": "[2.0.78, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[3.2.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj",
+        "projectName": "09Game.NewActivity.Core.Log",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "NLog.Extensions.Logging": {
+              "target": "Package",
+              "version": "[1.6.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj",
+        "projectName": "09Game.NewActivity.Core.Util",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.AspNetCore.Http.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core\\09Game.NewActivity.Core.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core\\09Game.NewActivity.Core.csproj",
+        "projectName": "09Game.NewActivity.Core",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core\\09Game.NewActivity.Core.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Authentication\\09Game.NewActivity.Core.Authentication.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Authentication\\09Game.NewActivity.Core.Authentication.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Enity\\09Game.NewActivity.Core.Enity.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Enity\\09Game.NewActivity.Core.Enity.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Log\\09Game.NewActivity.Core.Log.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\09Game.NewActivity.Core.Util\\09Game.NewActivity.Core.Util.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj"
+              },
+              "H:\\Coding\\活动\\09Game.NewActivity.Core\\Rabbit\\Rabbit.csproj": {
+                "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Rabbit\\Rabbit.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Consul": {
+              "target": "Package",
+              "version": "[1.6.1.1, )"
+            },
+            "NConsul": {
+              "target": "Package",
+              "version": "[0.7.4, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj": {
+      "version": "1.0.8",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj",
+        "projectName": "Billing.Api",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj": {
+      "version": "2.1.1",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj",
+        "projectName": "ItemSystem.Api",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\ItemSystem.Api.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\ItemSystem.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp2.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp2.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Configuration.Json": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.DependencyInjection": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[2.1.0, )"
+            },
+            "Microsoft.NETCore.App": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.1.0, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[11.0.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\Rabbit\\Rabbit.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Rabbit\\Rabbit.csproj",
+        "projectName": "Rabbit",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Rabbit\\Rabbit.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Rabbit\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[3.1.6, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[12.0.3, )"
+            },
+            "RabbitMQ.Client": {
+              "target": "Package",
+              "version": "[5.1.2, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

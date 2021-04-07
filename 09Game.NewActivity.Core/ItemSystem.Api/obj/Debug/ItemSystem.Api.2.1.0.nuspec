@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>ItemSystem.Api</id>
+    <version>2.1.0</version>
+    <authors>fangqq</authors>
+    <owners>fangqq</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>道具接口调用API</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp2.0">
+        <dependency id="Microsoft.Extensions.Configuration" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Configuration.Json" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="2.1.0" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="11.0.2" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\09GameAll\道具系统API\ItemSystem.Api\bin\Debug\netcoreapp2.0\ItemSystem.Api.dll" target="lib\netcoreapp2.0\ItemSystem.Api.dll" />
+  </files>
+</package>

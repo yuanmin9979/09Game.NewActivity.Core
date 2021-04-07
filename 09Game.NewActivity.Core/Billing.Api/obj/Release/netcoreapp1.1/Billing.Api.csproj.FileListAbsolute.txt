@@ -1,0 +1,54 @@
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\bin\Release\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Release\netcoreapp1.1\Billing.Api.pdb

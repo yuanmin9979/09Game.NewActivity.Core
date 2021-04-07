@@ -1,0 +1,90 @@
+D:\09GameAll\计费接口\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\09GameAll\计费接口\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\09GameAll\计费接口\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojResolveAssemblyReference.cache
+D:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+E:\09GameAll\计费接口\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+E:\09GameAll\计费接口\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+E:\09GameAll\计费接口\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+E:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojResolveAssemblyReference.cache
+E:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+E:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+E:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+E:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+E:\09GameAll\计费接口\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.Activity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\linzhaoxin\linzhaoxin\WMS\09Game.NWMS.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+F:\2020-道具后台\svn\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+F:\2020-道具后台\svn\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+F:\2020-道具后台\svn\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+F:\2020-道具后台\svn\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+F:\2020-道具后台\svn\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+F:\2020-道具后台\svn\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+F:\2020-道具后台\svn\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+F:\2020-道具后台\svn\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+F:\2020-道具后台\svn\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\赛季典藏\09Game.Collection.CoreV2 - 副本\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.deps.json
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.pdb
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csprojAssemblyReference.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.csproj.CoreCompileInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfoInputs.cache
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.AssemblyInfo.cs
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.dll
+D:\Wokr\项目\活动\09Game.NewActivity.Core\Billing.Api\obj\Debug\netcoreapp1.1\Billing.Api.pdb

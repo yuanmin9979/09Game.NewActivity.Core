@@ -1,0 +1,21 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_09Game.NewActivity.Core.Enity</RootNamespace>
+    <OutputType>Exe</OutputType>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Dapper" Version="2.0.78" />
+    <PackageReference Include="Pomelo.EntityFrameworkCore.MySql" Version="3.2.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\09Game.NewActivity.Core.Log\09Game.NewActivity.Core.Log.csproj" />
+    <ProjectReference Include="..\09Game.NewActivity.Core.Util\09Game.NewActivity.Core.Util.csproj" />
+    <ProjectReference Include="..\Billing.Api\Billing.Api.csproj" />
+    <ProjectReference Include="..\ItemSystem.Api\ItemSystem.Api.csproj" />
+  </ItemGroup>
+
+</Project>

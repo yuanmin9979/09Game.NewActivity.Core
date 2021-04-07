@@ -1,0 +1,23 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>_09Game.NewActivity.Core</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Consul" Version="1.6.1.1" />
+    <PackageReference Include="NConsul" Version="0.7.4" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\09Game.NewActivity.Core.Authentication\09Game.NewActivity.Core.Authentication.csproj" />
+    <ProjectReference Include="..\09Game.NewActivity.Core.Enity\09Game.NewActivity.Core.Enity.csproj" />
+    <ProjectReference Include="..\09Game.NewActivity.Core.Log\09Game.NewActivity.Core.Log.csproj" />
+    <ProjectReference Include="..\09Game.NewActivity.Core.Util\09Game.NewActivity.Core.Util.csproj" />
+    <ProjectReference Include="..\Billing.Api\Billing.Api.csproj" />
+    <ProjectReference Include="..\ItemSystem.Api\ItemSystem.Api.csproj" />
+    <ProjectReference Include="..\Rabbit\Rabbit.csproj" />
+  </ItemGroup>
+
+</Project>

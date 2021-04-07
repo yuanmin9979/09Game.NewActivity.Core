@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "2J0YbUD8corEsEILTEfM/EiOAmN5UckQt6mci+S8OU5VuogGLMG2LSQvxQHaYtUrPkxTkEANtcukr8f1MmWfPg==",
+  "success": true,
+  "projectFilePath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Rabbit\\Rabbit.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\tangning\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\3.1.6\\microsoft.extensions.configuration.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\3.1.6\\microsoft.extensions.dependencyinjection.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\microsoft.extensions.fileproviders.abstractions\\3.1.6\\microsoft.extensions.fileproviders.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\microsoft.extensions.hosting.abstractions\\3.1.6\\microsoft.extensions.hosting.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\3.1.6\\microsoft.extensions.logging.abstractions.3.1.6.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\microsoft.extensions.options\\3.1.6\\microsoft.extensions.options.3.1.6.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\microsoft.extensions.primitives\\3.1.6\\microsoft.extensions.primitives.3.1.6.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\tangning\\.nuget\\packages\\rabbitmq.client\\5.1.2\\rabbitmq.client.5.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

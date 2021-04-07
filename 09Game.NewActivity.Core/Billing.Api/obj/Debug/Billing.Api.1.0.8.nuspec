@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Billing.Api</id>
+    <version>1.0.8</version>
+    <authors>fangqq</authors>
+    <owners>fangqq</owners>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>09平台账务系统接口API</description>
+    <dependencies>
+      <group targetFramework=".NETCoreApp1.1">
+        <dependency id="Microsoft.Extensions.Configuration.Abstractions" version="1.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.DependencyInjection.Abstractions" version="1.1.1" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.Extensions.Options.ConfigurationExtensions" version="1.1.2" exclude="Build,Analyzers" />
+        <dependency id="Microsoft.NETCore.App" version="1.1.2" exclude="Build,Analyzers" />
+        <dependency id="Newtonsoft.Json" version="10.0.3" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="E:\09GameAll\计费接口\Billing.Api\bin\Debug\netcoreapp1.1\Billing.Api.dll" target="lib\netcoreapp1.1\Billing.Api.dll" />
+  </files>
+</package>

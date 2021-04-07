@@ -1,0 +1,77 @@
+{
+  "format": 1,
+  "restore": {
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj": {}
+  },
+  "projects": {
+    "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj": {
+      "version": "1.0.8",
+      "restore": {
+        "projectUniqueName": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj",
+        "projectName": "Billing.Api",
+        "projectPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\Billing.Api.csproj",
+        "packagesPath": "C:\\Users\\tangning\\.nuget\\packages\\",
+        "outputPath": "H:\\Coding\\活动\\09Game.NewActivity.Core\\Billing.Api\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\tangning\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp1.1"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp1.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp1.1": {
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Abstractions": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.Extensions.DependencyInjection.Abstractions": {
+              "target": "Package",
+              "version": "[1.1.1, )"
+            },
+            "Microsoft.Extensions.Options.ConfigurationExtensions": {
+              "target": "Package",
+              "version": "[1.1.2, )"
+            },
+            "Microsoft.NETCore.App": {
+              "target": "Package",
+              "version": "[1.1.2, )",
+              "autoReferenced": true
+            },
+            "NLog": {
+              "target": "Package",
+              "version": "[4.7.2, )"
+            },
+            "NLog.Web.AspNetCore": {
+              "target": "Package",
+              "version": "[4.9.2, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[10.0.3, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.407\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
